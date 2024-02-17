@@ -1,4 +1,4 @@
-### Hi there, I am Nalin Chourasia aka NalinC2002
+### Hi there, I am Nalin Chourasia😎😎
 
 <!--
 **NalinC2002/NalinC2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
