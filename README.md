@@ -1,32 +1,31 @@
-<h2> Hi, I'm Nalin Chourasia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Graduate Student at <a href="https://www.iitm.ac.in/">IIT Madras</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Upcoming Intern at <a href="https://www.accenture.com/in-en">Accenture</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h1 align="center">Hi 👋, I'm Nalin Chourasia</h1>
+<h3 align="center">Passionate developer and a problem-solver.</h3>
 
-[![Twitter: Nalin](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: Nalin Chourasia](https://img.shields.io/badge/-NalinChourasia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nalinchourasia/)](https://www.linkedin.com/in/nalinchourasia/)
-[![GitHub Nalin](https://img.shields.io/github/followers/NalinC2002?label=follow&style=social)](https://github.com/NalinC2002)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nalinc2002&label=Profile%20views&color=0e75b6&style=flat" alt="nalinc2002" /> </p>
 
+- 🌱 I’m currently learning **Frontend Development**
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- 👨‍💻 All of my projects are available at [https://github.com/NalinC2002?tab=repositories](https://github.com/NalinC2002?tab=repositories)
 
-```javascript
-const nalin = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+- 💬 Ask me about **Problem Solving, Computer Science, Coding**
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+- 📫 How to reach me **nalinchourasia10012002@gmail.com**
 
----
+- 📄 Know about my experiences [https://docs.google.com/document/d/1SbF0n_F28N7t5YdbUdBCYJ0eohFClRTc6_mmL7p65ts/edit?usp=sharing](https://docs.google.com/document/d/1SbF0n_F28N7t5YdbUdBCYJ0eohFClRTc6_mmL7p65ts/edit?usp=sharing)
 
-⭐️ From [@Nalin](https://github.com/NalinC2002)
+- ⚡ Other interests **Fitness💪, Singing🎤**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nalin chourasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nalin chourasia" height="30" width="40" /></a>
+<a href="https://instagram.com/nalinc_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nalinc_10" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nalinchourasia11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nalinchourasia11" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nalin10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nalin10" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nalinc2002&show_icons=true&locale=en&layout=compact" alt="nalinc2002" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nalinc2002&" alt="nalinc2002" /></p>
