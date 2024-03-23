@@ -16,8 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kanwat_gaurav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanwat_gaurav1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nalin-chourasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-kanwat" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13469256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13469256" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nalin-chourasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nalin-chourasia" height="30" width="40" /></a>
 <a href="https://medium.com/@gauravkanwat99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gauravkanwat99" height="30" width="40" /></a>
 </p>
 
