@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+sans&pause=500&color=B7D9F7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Nalin;Developer+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+sans&pause=500&color=B7D9F7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Nalin;Developer+%7C+Problem+Solver)](https://git.io/typing-svg)
 <br/>
 <br/>
 <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🔭 I’m currently working on web application
 
-- 🌱 I’m currently learning devops, machine learning
+- 🌱 I’m currently learning Linux, machine learning
 
 - 👯 I’m looking to collaborate on Open Source Projects
 
